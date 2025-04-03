@@ -1,0 +1,3 @@
+_conda create -n telebot python=3.8 -y # this will create the virtual envirnment
+_conda activate telebot # this will activate the virtual envirnment
+pip install -r requirements.txt # it will install all the requirements for the virtual envirnment which are given in requirements.txt file
