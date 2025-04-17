@@ -1,0 +1,338 @@
+[
+  {
+    "match_id": "CT2025_M1",
+    "teams": [
+      "Pakistan",
+      "New Zealand"
+    ],
+    "winner": "New Zealand",
+    "venue": "Karachi",
+    "date": "2025-02-19",
+    "tournament": "Champions Trophy",
+    "stage": "Group A"
+  },
+  {
+    "match_id": "CT2025_M2",
+    "teams": [
+      "Bangladesh",
+      "India"
+    ],
+    "winner": "India",
+    "venue": "Dubai",
+    "date": "2025-02-20",
+    "tournament": "Champions Trophy",
+    "stage": "Group A"
+  },
+  {
+    "match_id": "CT2025_M3",
+    "teams": [
+      "South Africa",
+      "Afghanistan"
+    ],
+    "winner": "South Africa",
+    "venue": "Karachi",
+    "date": "2025-02-21",
+    "tournament": "Champions Trophy",
+    "stage": "Group B"
+  },
+  {
+    "match_id": "CT2025_M4",
+    "teams": [
+      "England",
+      "Australia"
+    ],
+    "winner": "Australia",
+    "venue": "Lahore",
+    "date": "2025-02-22",
+    "tournament": "Champions Trophy",
+    "stage": "Group B"
+  },
+  {
+    "match_id": "CT2025_M5",
+    "teams": [
+      "Pakistan",
+      "India"
+    ],
+    "winner": "India",
+    "venue": "Dubai",
+    "date": "2025-02-23",
+    "tournament": "Champions Trophy",
+    "stage": "Group A"
+  },
+  {
+    "match_id": "CT2025_M6",
+    "teams": [
+      "Bangladesh",
+      "New Zealand"
+    ],
+    "winner": "New Zealand",
+    "venue": "Rawalpindi",
+    "date": "2025-02-24",
+    "tournament": "Champions Trophy",
+    "stage": "Group A"
+  },
+  {
+    "match_id": "CT2025_M7",
+    "teams": [
+      "Australia",
+      "South Africa"
+    ],
+    "winner": "None",
+    "venue": "Rawalpindi",
+    "date": "2025-02-25",
+    "tournament": "Champions Trophy",
+    "stage": "Group B"
+  },
+  {
+    "match_id": "CT2025_M8",
+    "teams": [
+      "Afghanistan",
+      "England"
+    ],
+    "winner": "Afghanistan",
+    "venue": "Lahore",
+    "date": "2025-02-26",
+    "tournament": "Champions Trophy",
+    "stage": "Group B"
+  },
+  {
+    "match_id": "CT2025_M9",
+    "teams": [
+      "Pakistan",
+      "Bangladesh"
+    ],
+    "winner": "None",
+    "venue": "Rawalpindi",
+    "date": "2025-02-27",
+    "tournament": "Champions Trophy",
+    "stage": "Group A"
+  },
+  {
+    "match_id": "CT2025_M10",
+    "teams": [
+      "Afghanistan",
+      "Australia"
+    ],
+    "winner": "None",
+    "venue": "Lahore",
+    "date": "2025-02-28",
+    "tournament": "Champions Trophy",
+    "stage": "Group B"
+  },
+  {
+    "match_id": "CT2025_M11",
+    "teams": [
+      "England",
+      "South Africa"
+    ],
+    "winner": "South Africa",
+    "venue": "Karachi",
+    "date": "2025-03-01",
+    "tournament": "Champions Trophy",
+    "stage": "Group B"
+  },
+  {
+    "match_id": "CT2025_M12",
+    "teams": [
+      "India",
+      "New Zealand"
+    ],
+    "winner": "India",
+    "venue": "Dubai",
+    "date": "2025-03-02",
+    "tournament": "Champions Trophy",
+    "stage": "Group A"
+  },
+  {
+    "match_id": "CT2025_SF1",
+    "teams": [
+      "India",
+      "Australia"
+    ],
+    "winner": "India",
+    "venue": "Dubai",
+    "date": "2025-03-04",
+    "tournament": "Champions Trophy",
+    "stage": "Semi-final"
+  },
+  {
+    "match_id": "CT2025_SF2",
+    "teams": [
+      "New Zealand",
+      "South Africa"
+    ],
+    "winner": "New Zealand",
+    "venue": "Lahore",
+    "date": "2025-03-05",
+    "tournament": "Champions Trophy",
+    "stage": "Semi-final"
+  },
+  {
+    "match_id": "CT2025_F",
+    "teams": [
+      "India",
+      "New Zealand"
+    ],
+    "winner": "India",
+    "venue": "Dubai",
+    "date": "2025-03-09",
+    "tournament": "Champions Trophy",
+    "stage": "Final"
+  },
+  {
+    "match_id": "CT2017_M1",
+    "teams": [
+      "England",
+      "Bangladesh"
+    ],
+    "winner": "England",
+    "venue": "The Oval",
+    "date": "2017-06-01",
+    "tournament": "Champions Trophy",
+    "stage": "Group A"
+  },
+  {
+    "match_id": "CT2017_M2",
+    "teams": [
+      "Australia",
+      "New Zealand"
+    ],
+    "winner": "None",
+    "venue": "Edgbaston",
+    "date": "2017-06-02",
+    "tournament": "Champions Trophy",
+    "stage": "Group A"
+  },
+  {
+    "match_id": "CT2017_M3",
+    "teams": [
+      "Sri Lanka",
+      "South Africa"
+    ],
+    "winner": "South Africa",
+    "venue": "The Oval",
+    "date": "2017-06-03",
+    "tournament": "Champions Trophy",
+    "stage": "Group B"
+  },
+  {
+    "match_id": "CT2017_M4",
+    "teams": [
+      "India",
+      "Pakistan"
+    ],
+    "winner": "India",
+    "venue": "Edgbaston",
+    "date": "2017-06-04",
+    "tournament": "Champions Trophy",
+    "stage": "Group B"
+  },
+  {
+    "match_id": "CT2017_M5",
+    "teams": [
+      "Australia",
+      "Bangladesh"
+    ],
+    "winner": "None",
+    "venue": "The Oval",
+    "date": "2017-06-05",
+    "tournament": "Champions Trophy",
+    "stage": "Group A"
+  },
+  {
+    "match_id": "CT2017_M6",
+    "teams": [
+      "England",
+      "New Zealand"
+    ],
+    "winner": "England",
+    "venue": "Cardiff",
+    "date": "2017-06-06",
+    "tournament": "Champions Trophy",
+    "stage": "Group A"
+  },
+  {
+    "match_id": "CT2017_M7",
+    "teams": [
+      "Pakistan",
+      "South Africa"
+    ],
+    "winner": "Pakistan",
+    "venue": "Edgbaston",
+    "date": "2017-06-07",
+    "tournament": "Champions Trophy",
+    "stage": "Group B"
+  },
+  {
+    "match_id": "CT2017_M8",
+    "teams": [
+      "India",
+      "Sri Lanka"
+    ],
+    "winner": "Sri Lanka",
+    "venue": "The Oval",
+    "date": "2017-06-08",
+    "tournament": "Champions Trophy",
+    "stage": "Group B"
+  },
+  {
+    "match_id": "CT2017_M9",
+    "teams": [
+      "New Zealand",
+      "Bangladesh"
+    ],
+    "winner": "Bangladesh",
+    "venue": "Cardiff",
+    "date": "2017-06-09",
+    "tournament": "Champions Trophy",
+    "stage": "Group A"
+  },
+  {
+    "match_id": "CT2017_M10",
+    "teams": [
+      "India",
+      "South Africa"
+    ],
+    "winner": "India",
+    "venue": "The Oval",
+    "date": "2017-06-11",
+    "tournament": "Champions Trophy",
+    "stage": "Group B"
+  },
+  {
+    "match_id": "CT2017_SF1",
+    "teams": [
+      "England",
+      "Pakistan"
+    ],
+    "winner": "Pakistan",
+    "venue": "Cardiff",
+    "date": "2017-06-14",
+    "tournament": "Champions Trophy",
+    "stage": "Semi-final"
+  },
+  {
+    "match_id": "CT2017_SF2",
+    "teams": [
+      "India",
+      "Bangladesh"
+    ],
+    "winner": "India",
+    "venue": "Edgbaston",
+    "date": "2017-06-15",
+    "tournament": "Champions Trophy",
+    "stage": "Semi-final"
+  },
+  {
+    "match_id": "CT2017_F",
+    "teams": [
+      "India",
+      "Pakistan"
+    ],
+    "winner": "Pakistan",
+    "venue": "The Oval",
+    "date": "2017-06-18",
+    "tournament": "Champions Trophy",
+    "stage": "Final"
+  }
+]
