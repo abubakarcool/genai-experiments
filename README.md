@@ -7,10 +7,8 @@ It includes:
 - LlamaIndex integrations with document loaders, query engines, and storage
 - RAG (Retrieval-Augmented Generation) pipelines
 - Prompt engineering tests
-- Multi-modal capabilities (text-to-image, audio, etc.)
+- Multi-modal capabilities - text-to-image, audio, etc.
 - Notes, debug logs, and performance observations
-
-💡 Perfect for exploring, debugging, and prototyping LLM features in one central place.
 
 ---
 
@@ -20,18 +18,8 @@ It includes:
 - LlamaIndex
 - OpenAI / Gemini APIs
 - ChromaDB, FAISS, Pinecone & Weaviate (vector DBs)
-- Streamlit (optional UI)
+- Streamlit
+- networkx (Graph RAG)
 
 ---
-
-## 📁 Structure
-- `/langchain-tests`: Prompt templates, chains, agents, tools, memory
-- `/llamaindex-tests`: Indexing, querying, embeddings
-- `/notebooks`: Colab/Jupyter files
-- `/docs`: Notes, thoughts, findings
-
----
-
-## 🚧 Disclaimer
-This is an experimental space — not production code. Expect work-in-progress notebooks and raw output.
 
